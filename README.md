@@ -5,7 +5,7 @@ To add your own screenshot, upload an image to this repository, copy its URL, an
 ▶️ Play the Game Live!
 You can play the latest version of this game right now in your browser at the following link:
 
-[https://hhjpzhao.github.io/Happy-Flip-Chess/](https://hhjpzhao.github.io/Hidden-Gragon-Chess-II-The-Rise-of-Archer/)
+[https://hhjpzhao.github.io/Hidden-Gragon-Chess-II-The-Rise-of-Archer/(https://hhjpzhao.github.io/Hidden-Gragon-Chess-II-The-Rise-of-Archer/)
 
 About the Game
 Hidden Dragon Chess II is a unique strategy game that combines the "fog of war" from our original Happy Flip Chess with the rich piece set of Chinese Chess (象棋). All 32 pieces, including the custom-made Archer, start face-down on a crowded 4x8 board. Players must balance the need to reveal powerful pieces with the risk of exposing them to capture, leading to a dynamic game of strategy, memory, and tactical skill.
