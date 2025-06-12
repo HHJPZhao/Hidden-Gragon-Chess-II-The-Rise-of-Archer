@@ -45,7 +45,7 @@ Elephant (象/相): Moves and captures any number of squares diagonally, just li
 
 Horse (馬/傌): Moves and captures in an 'L' shape, just like a standard Chess Knight. It can jump over any other pieces, hidden or revealed.
 
-Chariot (俥/車): Moves and captures any number of squares in a straight line (orthogonally), just like a standard Chess Rook. It must stop at the first piece it encounters.
+Chariot (車/俥): Moves and captures any number of squares in a straight line (orthogonally), just like a standard Chess Rook. It must stop at the first piece it encounters.
 
 Cannon (炮/砲): A unique long-range attacker.
 
@@ -74,7 +74,7 @@ Scoring System:
 
 General (將/帥): 10 points
 
-Chariot (車): 9 points
+Chariot (車/俥): 9 points
 
 Cannon (炮/砲): 5 points
 
