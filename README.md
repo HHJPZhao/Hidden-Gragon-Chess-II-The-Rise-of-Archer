@@ -1,6 +1,6 @@
 Hidden Dragon Chess II: The Rise of the Archer (暗龍棋II：弓兵崛起)
 
-To add your own screenshot, upload an image to this repository, copy its URL, and replace the link above.
+![https://github.com/HHJPZhao/Hidden-Gragon-Chess-II-The-Rise-of-Archer/blob/main/Hidden-Gragon-Chess-II-The-Rise-of-Archer.jpg](https://github.com/HHJPZhao/Hidden-Gragon-Chess-II-The-Rise-of-Archer/blob/main/Hidden-Gragon-Chess-II-The-Rise-of-Archer.jpg)
 
 ▶️ Play the Game Live!
 You can play the latest version of this game right now in your browser at the following link:
